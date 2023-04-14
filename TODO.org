@@ -1,0 +1,2 @@
+* TODO Setup [[https://github.com/neomutt/neomutt/blob/main/contrib/oauth2/mutt_oauth2.py.README][oauth script]]
+* TODO Setup [[https://blog.flaport.net/configuring-neomutt-for-email.html][mbsync,msmtp]] 
